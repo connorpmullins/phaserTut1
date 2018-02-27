@@ -1,0 +1,16 @@
+{
+  "name": "phaser1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "phaser1.js",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "phaser": "^3.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
